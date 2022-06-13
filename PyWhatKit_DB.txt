@@ -1,0 +1,85 @@
+Date: 18/4/2022
+Time: 11:24
+Phone Number: +918571821961
+Message: this is a test message
+--------------------
+Date: 23/4/2022
+Time: 15:48
+Phone Number: +918571821961
+Message: this is a test message
+--------------------
+Date: 23/4/2022
+Time: 16:1
+Phone Number: +918571821961
+Message: this is a test message
+--------------------
+Date: 23/4/2022
+Time: 16:10
+Phone Number: +918571821961
+Message: this is a test message
+--------------------
+Date: 23/4/2022
+Time: 16:21
+Phone Number: +91{'shweta': 917056084857, 'noni': 919306258017}
+Message: this is a text message
+--------------------
+Date: 23/4/2022
+Time: 16:37
+Phone Number: +91919306258017
+Message: attest
+--------------------
+Date: 23/4/2022
+Time: 16:44
+Phone Number: contact_number
+Message: none
+--------------------
+Date: 23/4/2022
+Time: 16:47
+Phone Number: contact_number
+Message: is the test message
+--------------------
+Date: 23/4/2022
+Time: 16:50
+Phone Number: contact_number
+Message: best message
+--------------------
+Date: 23/4/2022
+Time: 16:57
+Phone Number: +919306258017
+Message: text message
+--------------------
+Date: 25/4/2022
+Time: 15:20
+Phone Number: +919306258017
+Message: attesting message sent by jarvis
+--------------------
+Date: 25/4/2022
+Time: 15:23
+Phone Number: +917056084857
+Message: best message send by jarvis
+--------------------
+Date: 25/4/2022
+Time: 17:7
+Phone Number: +918571821961 :JARVIS_1.0_Python3.9venv
+Message: this is a test message
+--------------------
+Date: 25/4/2022
+Time: 17:25
+Phone Number: +919992466779
+Message: Hey there! This is a test message do not reply sir. :JARVIS_1.0_Python3.9venv
+--------------------
+Date: 30/4/2022
+Time: 0:25
+Phone Number: +917056084857
+Message: ok :JARVIS_1.0_Python3.9venv
+--------------------
+Date: 30/4/2022
+Time: 19:15
+Phone Number: +919992466779
+Message: fuck you asshole :JARVIS_1.0_Python3.9venv
+--------------------
+Date: 27/5/2022
+Time: 17:54
+Phone Number: +917056084857
+Message: love you honey :JARVIS_1.0_Python3.9venv
+--------------------
